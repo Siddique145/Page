@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-image: url(https://th.bing.com/th/id/R.293118e2d9418710dc6f175860922265?rik=Ld%2bjmRXuz28ajQ&pid=ImgRaw&r=0);
+  margin: 180px;
+}
+div {
+  padding: 10px;
+  background-color: whitesmoke;
+  width: 550px;
+  height: 260px;
+  margin: auto 210px;
+}
+h4 {
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+h2 {
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 5px;
+  word-spacing: 35px;
+}
+h1 {
+  text-align: unset;
+  font-size: 20px;
+  letter-spacing: 5px;
+}
